@@ -1,0 +1,10 @@
+C:\Users\Ruff_Ruder\Desktop\ЛАБЫ\Algorithms_Lab_1\Algorithms_Lab_1\obj\Debug\Algorithms_Lab_1.csprojAssemblyReference.cache
+C:\Users\Ruff_Ruder\Desktop\ЛАБЫ\Algorithms_Lab_1\Algorithms_Lab_1\obj\Debug\Algorithms_Lab_1.Form1.resources
+C:\Users\Ruff_Ruder\Desktop\ЛАБЫ\Algorithms_Lab_1\Algorithms_Lab_1\obj\Debug\Algorithms_Lab_1.Properties.Resources.resources
+C:\Users\Ruff_Ruder\Desktop\ЛАБЫ\Algorithms_Lab_1\Algorithms_Lab_1\obj\Debug\Algorithms_Lab_1.csproj.GenerateResource.cache
+C:\Users\Ruff_Ruder\Desktop\ЛАБЫ\Algorithms_Lab_1\Algorithms_Lab_1\obj\Debug\Algorithms_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\Desktop\ЛАБЫ\Algorithms_Lab_1\Algorithms_Lab_1\bin\Debug\Algorithms_Lab_1.exe.config
+C:\Users\Ruff_Ruder\Desktop\ЛАБЫ\Algorithms_Lab_1\Algorithms_Lab_1\bin\Debug\Algorithms_Lab_1.exe
+C:\Users\Ruff_Ruder\Desktop\ЛАБЫ\Algorithms_Lab_1\Algorithms_Lab_1\bin\Debug\Algorithms_Lab_1.pdb
+C:\Users\Ruff_Ruder\Desktop\ЛАБЫ\Algorithms_Lab_1\Algorithms_Lab_1\obj\Debug\Algorithms_Lab_1.exe
+C:\Users\Ruff_Ruder\Desktop\ЛАБЫ\Algorithms_Lab_1\Algorithms_Lab_1\obj\Debug\Algorithms_Lab_1.pdb
