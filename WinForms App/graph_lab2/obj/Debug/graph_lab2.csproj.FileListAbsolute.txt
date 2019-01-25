@@ -1,0 +1,46 @@
+D:\projects\graph_lab2\graph_lab2\bin\Debug\graph_lab2.exe.config
+D:\projects\graph_lab2\graph_lab2\bin\Debug\graph_lab2.exe
+D:\projects\graph_lab2\graph_lab2\bin\Debug\graph_lab2.pdb
+D:\projects\graph_lab2\graph_lab2\obj\Debug\graph_lab2.csprojResolveAssemblyReference.cache
+D:\projects\graph_lab2\graph_lab2\obj\Debug\graph_lab2.Form1.resources
+D:\projects\graph_lab2\graph_lab2\obj\Debug\graph_lab2.Properties.Resources.resources
+D:\projects\graph_lab2\graph_lab2\obj\Debug\graph_lab2.csproj.GenerateResource.Cache
+D:\projects\graph_lab2\graph_lab2\obj\Debug\graph_lab2.exe
+D:\projects\graph_lab2\graph_lab2\obj\Debug\graph_lab2.pdb
+D:\projects\graph_lab2 - копия\graph_lab2\bin\Debug\graph_lab2.exe.config
+D:\projects\graph_lab2 - копия\graph_lab2\obj\Debug\graph_lab2.exe
+D:\projects\graph_lab2 - копия\graph_lab2\obj\Debug\graph_lab2.pdb
+D:\projects\graph_lab2 - копия\graph_lab2\bin\Debug\graph_lab2.exe
+D:\projects\graph_lab2 - копия\graph_lab2\bin\Debug\graph_lab2.pdb
+D:\projects\graph_lab2 - копия\graph_lab2\obj\Debug\graph_lab2.csprojResolveAssemblyReference.cache
+D:\projects\graph_lab2 - копия\graph_lab2\obj\Debug\graph_lab2.Form1.resources
+D:\projects\graph_lab2 - копия\graph_lab2\obj\Debug\graph_lab2.Properties.Resources.resources
+D:\projects\graph_lab2 - копия\graph_lab2\obj\Debug\graph_lab2.csproj.GenerateResource.Cache
+D:\projects\graph_lab3\graph_lab2\bin\Debug\graph_lab2.exe.config
+D:\projects\graph_lab3\graph_lab2\obj\Debug\graph_lab2.exe
+D:\projects\graph_lab3\graph_lab2\obj\Debug\graph_lab2.pdb
+D:\projects\graph_lab3\graph_lab2\bin\Debug\graph_lab2.exe
+D:\projects\graph_lab3\graph_lab2\bin\Debug\graph_lab2.pdb
+D:\projects\graph_lab3\graph_lab2\obj\Debug\graph_lab2.csprojResolveAssemblyReference.cache
+D:\projects\graph_lab3\graph_lab2\obj\Debug\graph_lab2.Form1.resources
+D:\projects\graph_lab3\graph_lab2\obj\Debug\graph_lab2.Properties.Resources.resources
+D:\projects\graph_lab3\graph_lab2\obj\Debug\graph_lab2.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\graph_lab3\graph_lab2\bin\Debug\graph_lab2.exe.config
+C:\Users\home\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.exe
+C:\Users\home\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.pdb
+C:\Users\home\Desktop\graph_lab3\graph_lab2\bin\Debug\graph_lab2.exe
+C:\Users\home\Desktop\graph_lab3\graph_lab2\bin\Debug\graph_lab2.pdb
+C:\Users\home\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.Form1.resources
+C:\Users\home\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.Properties.Resources.resources
+C:\Users\home\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.csproj.GenerateResource.Cache
+C:\Users\Ruff_Ruder\Desktop\graph_lab3\graph_lab2\bin\Debug\graph_lab2.exe.config
+C:\Users\Ruff_Ruder\Desktop\graph_lab3\graph_lab2\bin\Debug\graph_lab2.exe
+C:\Users\Ruff_Ruder\Desktop\graph_lab3\graph_lab2\bin\Debug\graph_lab2.pdb
+C:\Users\Ruff_Ruder\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.csprojAssemblyReference.cache
+C:\Users\Ruff_Ruder\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.Form1.resources
+C:\Users\Ruff_Ruder\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.Properties.Resources.resources
+C:\Users\Ruff_Ruder\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.csproj.GenerateResource.cache
+C:\Users\Ruff_Ruder\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.exe
+C:\Users\Ruff_Ruder\Desktop\graph_lab3\graph_lab2\obj\Debug\graph_lab2.pdb

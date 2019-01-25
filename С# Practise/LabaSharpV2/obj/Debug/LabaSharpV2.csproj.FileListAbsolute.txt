@@ -1,0 +1,6 @@
+C:\Users\Ruff_Ruder\source\repos\LabaSharpV2\LabaSharpV2\bin\Debug\LabaSharpV2.exe
+C:\Users\Ruff_Ruder\source\repos\LabaSharpV2\LabaSharpV2\bin\Debug\LabaSharpV2.pdb
+C:\Users\Ruff_Ruder\source\repos\LabaSharpV2\LabaSharpV2\obj\Debug\LabaSharpV2.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\source\repos\LabaSharpV2\LabaSharpV2\obj\Debug\LabaSharpV2.exe
+C:\Users\Ruff_Ruder\source\repos\LabaSharpV2\LabaSharpV2\obj\Debug\LabaSharpV2.pdb
+C:\Users\Ruff_Ruder\source\repos\LabaSharpV2\LabaSharpV2\obj\Debug\LabaSharpV2.csprojResolveAssemblyReference.cache

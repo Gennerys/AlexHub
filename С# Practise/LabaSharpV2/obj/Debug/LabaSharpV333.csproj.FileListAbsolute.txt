@@ -1,0 +1,48 @@
+C:/Users/Ruff_Ruder/source/repos/LabaSharpV2/LabaSharpV2/bin/Debug/LabaSharpV2.exe
+C:/Users/Ruff_Ruder/source/repos/LabaSharpV2/LabaSharpV2/bin/Debug/LabaSharpV2.pdb
+C:/Users/Ruff_Ruder/source/repos/LabaSharpV2/LabaSharpV2/obj/Debug/LabaSharpV333.csprojResolveAssemblyReference.cache
+C:/Users/Ruff_Ruder/source/repos/LabaSharpV2/LabaSharpV2/obj/Debug/LabaSharpV333.csproj.CoreCompileInputs.cache
+C:/Users/Ruff_Ruder/source/repos/LabaSharpV2/LabaSharpV2/obj/Debug/LabaSharpV2.exe
+C:/Users/Ruff_Ruder/source/repos/LabaSharpV2/LabaSharpV2/obj/Debug/LabaSharpV2.pdb
+C:/Users/Администратор/Desktop/LabaSharpV2/LabaSharpV2/bin/Debug/LabaSharpV2.exe
+C:/Users/Администратор/Desktop/LabaSharpV2/LabaSharpV2/bin/Debug/LabaSharpV2.pdb
+C:/Users/Администратор/Desktop/LabaSharpV2/LabaSharpV2/obj/Debug/LabaSharpV333.csprojResolveAssemblyReference.cache
+C:/Users/Администратор/Desktop/LabaSharpV2/LabaSharpV2/obj/Debug/LabaSharpV333.csproj.CoreCompileInputs.cache
+C:/Users/Администратор/Desktop/LabaSharpV2/LabaSharpV2/obj/Debug/LabaSharpV2.exe
+C:/Users/Администратор/Desktop/LabaSharpV2/LabaSharpV2/obj/Debug/LabaSharpV2.pdb
+C:/Users/Администратор/Desktop/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV333.csproj.CoreCompileInputs.cache
+C:/Users/Администратор/Desktop/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV2.exe
+C:/Users/Администратор/Desktop/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV2.pdb
+C:/Users/Администратор/Desktop/LabaSharpV2 — копия/LabaSharpV2/bin/Debug/LabaSharpV2.exe
+C:/Users/Администратор/Desktop/LabaSharpV2 — копия/LabaSharpV2/bin/Debug/LabaSharpV2.pdb
+C:/Users/Администратор/Desktop/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV333.csprojResolveAssemblyReference.cache
+C:/Users/Ruff_Ruder/Desktop/ЛАБЫ/LabaSharpV2 — копия/LabaSharpV2/bin/Debug/LabaSharpV2.exe
+C:/Users/Ruff_Ruder/Desktop/ЛАБЫ/LabaSharpV2 — копия/LabaSharpV2/bin/Debug/LabaSharpV2.pdb
+C:/Users/Ruff_Ruder/Desktop/ЛАБЫ/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV333.csprojAssemblyReference.cache
+C:/Users/Ruff_Ruder/Desktop/ЛАБЫ/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV333.csproj.CoreCompileInputs.cache
+C:/Users/Ruff_Ruder/Desktop/ЛАБЫ/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV2.exe
+C:/Users/Ruff_Ruder/Desktop/ЛАБЫ/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV2.pdb
+C:/Users/Taras/Desktop/LabaSharpV2 — копия/LabaSharpV2/bin/Debug/LabaSharpV2.exe
+C:/Users/Taras/Desktop/LabaSharpV2 — копия/LabaSharpV2/bin/Debug/LabaSharpV2.pdb
+C:/Users/Taras/Desktop/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV333.csprojAssemblyReference.cache
+C:/Users/Taras/Desktop/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV333.csproj.CoreCompileInputs.cache
+C:/Users/Taras/Desktop/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV2.exe
+C:/Users/Taras/Desktop/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV2.pdb
+C:/Users/Ruff_Ruder/Desktop/ЛАБЫ/Новая папка/LabaSharpV2 — копия/LabaSharpV2/bin/Debug/LabaSharpV2.exe
+C:/Users/Ruff_Ruder/Desktop/ЛАБЫ/Новая папка/LabaSharpV2 — копия/LabaSharpV2/bin/Debug/LabaSharpV2.pdb
+C:/Users/Ruff_Ruder/Desktop/ЛАБЫ/Новая папка/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV333.csprojAssemblyReference.cache
+C:/Users/Ruff_Ruder/Desktop/ЛАБЫ/Новая папка/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV333.csproj.CoreCompileInputs.cache
+C:/Users/Ruff_Ruder/Desktop/ЛАБЫ/Новая папка/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV2.exe
+C:/Users/Ruff_Ruder/Desktop/ЛАБЫ/Новая папка/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV2.pdb
+/Users/macbook/Desktop/LabaSharpV2 — копия/LabaSharpV2/bin/Debug/LabaSharpV2.exe
+/Users/macbook/Desktop/LabaSharpV2 — копия/LabaSharpV2/bin/Debug/LabaSharpV2.pdb
+/Users/macbook/Desktop/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV333.csprojResolveAssemblyReference.cache
+/Users/macbook/Desktop/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV333.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV2.exe
+/Users/macbook/Desktop/LabaSharpV2 — копия/LabaSharpV2/obj/Debug/LabaSharpV2.pdb
+C:\Users\Ruff_Ruder\Desktop\LabaSharpV2 — копия\LabaSharpV2\bin\Debug\LabaSharpV2.exe
+C:\Users\Ruff_Ruder\Desktop\LabaSharpV2 — копия\LabaSharpV2\bin\Debug\LabaSharpV2.pdb
+C:\Users\Ruff_Ruder\Desktop\LabaSharpV2 — копия\LabaSharpV2\obj\Debug\LabaSharpV333.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\Desktop\LabaSharpV2 — копия\LabaSharpV2\obj\Debug\LabaSharpV2.exe
+C:\Users\Ruff_Ruder\Desktop\LabaSharpV2 — копия\LabaSharpV2\obj\Debug\LabaSharpV2.pdb
+C:\Users\Ruff_Ruder\Desktop\LabaSharpV2 — копия\LabaSharpV2\obj\Debug\LabaSharpV333.csprojAssemblyReference.cache
