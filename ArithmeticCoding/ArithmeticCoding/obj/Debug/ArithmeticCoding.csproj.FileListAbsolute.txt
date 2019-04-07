@@ -1,0 +1,7 @@
+C:\Users\Ruff_Ruder\Desktop\C#\ArithmeticCoding\ArithmeticCoding\bin\Debug\ArithmeticCoding.exe.config
+C:\Users\Ruff_Ruder\Desktop\C#\ArithmeticCoding\ArithmeticCoding\bin\Debug\ArithmeticCoding.exe
+C:\Users\Ruff_Ruder\Desktop\C#\ArithmeticCoding\ArithmeticCoding\bin\Debug\ArithmeticCoding.pdb
+C:\Users\Ruff_Ruder\Desktop\C#\ArithmeticCoding\ArithmeticCoding\obj\Debug\ArithmeticCoding.csprojAssemblyReference.cache
+C:\Users\Ruff_Ruder\Desktop\C#\ArithmeticCoding\ArithmeticCoding\obj\Debug\ArithmeticCoding.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\Desktop\C#\ArithmeticCoding\ArithmeticCoding\obj\Debug\ArithmeticCoding.exe
+C:\Users\Ruff_Ruder\Desktop\C#\ArithmeticCoding\ArithmeticCoding\obj\Debug\ArithmeticCoding.pdb
