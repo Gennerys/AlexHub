@@ -1,0 +1,10 @@
+C:\Users\Ruff_Ruder\Desktop\C#\BookShop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\Ruff_Ruder\Desktop\C#\BookShop\BookShop\bin\Debug\BookShop.exe
+C:\Users\Ruff_Ruder\Desktop\C#\BookShop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\Ruff_Ruder\Desktop\C#\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\Ruff_Ruder\Desktop\C#\BookShop\BookShop\obj\Debug\BookShop.Form1.resources
+C:\Users\Ruff_Ruder\Desktop\C#\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\Ruff_Ruder\Desktop\C#\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\Ruff_Ruder\Desktop\C#\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\Desktop\C#\BookShop\BookShop\obj\Debug\BookShop.exe
+C:\Users\Ruff_Ruder\Desktop\C#\BookShop\BookShop\obj\Debug\BookShop.pdb
